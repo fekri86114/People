@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">People</string>
+    <string name="name">Mohammad Reza Fekri</string>
+    <string name="lastname">lastname</string>
+    <string name="person_image">PERSON IMAGE</string>
+    <string name="phone_number_example">0914 123 4567</string>
+    <string name="find_person">find person…</string>
+    <string name="person_nickname">Person nickname</string>
+    <string name="phone_number">Phone number</string>
+    <string name="confirm">Confirm</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+</resources>
